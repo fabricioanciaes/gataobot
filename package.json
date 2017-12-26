@@ -1,0 +1,17 @@
+{
+  "name": "gatonet-bot",
+  "version": "1.0.0",
+  "description": "Discord bot do Gatão Game Center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.2.1",
+    "figlet": "^1.2.0",
+    "scrape-it": "^4.1.2"
+  }
+}
