@@ -1,5 +1,6 @@
 {
-    "token":"your-token-here",
+    "token":"your-discord-bot-token",
+    "steamKey": "your-steam-api-key",
     "prefix":"$",
     "cmdPath": "./commands/"
 }

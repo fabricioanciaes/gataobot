@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.17.1",
     "colors": "^1.1.2",
     "discord.js": "^11.2.1",
-    "figlet": "^1.2.0",
-    "scrape-it": "^4.1.2"
+    "emoji-flags": "^1.2.0",
+    "figlet": "^1.2.0"
   }
 }
